@@ -2,7 +2,7 @@ Here's a detailed and vivid explanation of the processing workflow in your PHP s
 
 ---
 
-# **VIVIF PHP Script Detailed Processing Documentation**
+# **Rag based processing from inputting sound to outputting based on Allam model **
 
 This script offers an interactive voice assistant experience, processing user queries through various stages that include sound input, secure context retrieval (using forward and backward RAG checks), conflict detection, and sound output. 
 
